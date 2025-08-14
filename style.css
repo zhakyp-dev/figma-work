@@ -135,6 +135,10 @@
   color: #35312e;
 }
 
+.design {
+  position: relative;
+}
+
 .line {
   width: 30px;
   height: 30px;
