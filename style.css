@@ -120,3 +120,174 @@
   letter-spacing: 1.2px;
   text-align: center;
 }
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.text-1 {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 48px;
+  color: #35312e;
+}
+
+.line {
+  width: 30px;
+  height: 30px;
+  background-color: #e09d81;
+  border-radius: 15px;
+}
+
+.line-1 {
+  width: 30px;
+  height: 30px;
+  background-color: #748ea1;
+  border-radius: 15px;
+}
+
+.line-2 {
+  width: 30px;
+  height: 30px;
+  background-color: #b76d47;
+  border-radius: 15px;
+}
+
+.line-3 {
+  width: 30px;
+  height: 30px;
+  background-color: #7d836e;
+  border-radius: 15px;
+}
+
+.line-4 {
+  width: 30px;
+  height: 30px;
+  background-color: #c33636;
+  border-radius: 15px;
+}
+
+.line-5 {
+  width: 30px;
+  height: 30px;
+  background-color: #cdc7b3;
+  border-radius: 15px;
+}
+
+.line-6 {
+  width: 30px;
+  height: 30px;
+  background-color: #595752;
+  border-radius: 15px;
+}
+
+.line-7 {
+  width: 30px;
+  height: 30px;
+  background-color: #d3c2ca;
+  border-radius: 15px;
+}
+
+.baner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 17px;
+}
+
+.foto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.text-foto {
+  position: absolute;
+  top: 200px;
+  left: 870px;
+  list-style-type: none;
+}
+
+.foto-reg {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.48px;
+  color: #6e6259;
+}
+
+.foto-kkk {
+  position: absolute;
+  top: 222px;
+}
+
+.text-foto1 {
+  margin-left: 300px;
+  list-style-type: none;
+}
+
+.foto-kkk {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.48px;
+  color: #6e6259;
+}
+
+.text-foto2 {
+  list-style-type: none;
+  position: absolute;
+  top: 500px;
+  left: 450px;
+}
+
+.foto-ggg {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.48px;
+  color: #6e6259;
+}
+
+.text-foto3 {
+  list-style-type: none;
+  position: absolute;
+  top: 650px;
+  left: 380px;
+}
+
+.foto-aaa {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.48px;
+  color: #6e6259;
+}
+
+.text-foto4 {
+  list-style-type: none;
+  position: absolute;
+  top: 480px;
+  left: 850px;
+}
+
+.foto-fff {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.48px;
+  color: #6e6259;
+}
+
+.text-foto5 {
+  list-style-type: none;
+  position: absolute;
+  top: 650px;
+  left: 880px;
+}
+
+.foto-www {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.48px;
+  color: #6e6259;
+}
